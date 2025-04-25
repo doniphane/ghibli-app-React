@@ -45,7 +45,7 @@ function App() {
       <Navbar />
       <main>
         <Routes>
-          <Route path="/" element={<HomePage films={films}
+          <Route path="/" element={<HomePage filmss={films}
             films={films}
             favorites={favorites}
             toggleFavorite={toggleFavorite} />} />

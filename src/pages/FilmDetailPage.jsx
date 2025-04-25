@@ -9,8 +9,8 @@ function FilmDetailPage({ films }) {
     }
 
     return (
-        <div className="flex justify-center items-center p-6">
-            <div className="max-w-3xl w-full bg-white shadow-lg rounded-xl overflow-hidden">
+        <div className="w-screen min-h-screen flex justify-center items-start p-6 bg-black">
+            <div className="w-full max-w-4xl bg-white shadow-lg rounded-xl overflow-hidden">
                 <img
                     src={film.image}
                     alt={film.title}
