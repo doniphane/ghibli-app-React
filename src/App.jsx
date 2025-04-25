@@ -4,6 +4,7 @@ import Navbar from './components/Navbar';
 import HomePage from './pages/HomePage';
 import FilmDetailPage from './pages/FilmDetailPage';
 import FavoritesPage from './pages/FavoritePage';
+
 import './App.css';
 
 function App() {
