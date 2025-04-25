@@ -17,7 +17,7 @@ Une petite application React qui utilise l'API publique [Studio Ghibli](https://
 
 ## 📦 Technologies utilisées
 
-- [React](
+- [React]
 - [React Router DOM]
 - [Tailwind CSS]
 - [Studio Ghibli API]
